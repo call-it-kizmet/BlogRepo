@@ -7,6 +7,8 @@ permalink: research/researchInterests
 
 ## Accessibility
 
-## Rhetoric of Science, Technology, and Medicine
+## Disability, Technology, and Society
+
+## Rhetoric of Risk and Probability
 
 ## Autoethnography
