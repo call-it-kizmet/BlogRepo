@@ -7,4 +7,6 @@ permalink: research/researchInterests
 
 ## Accessibility
 
-## Rhetoric of 
+## Rhetoric of Science, Technology, and Medicine
+
+## Autoethnography
