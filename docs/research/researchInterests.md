@@ -4,7 +4,7 @@ title: Research Interests
 permalink: research/researchInterests
 ---
 # Research Interests
-
+I have diverse research interests.
 ## Accessibility
 
 ## Disability, Technology, and Society
